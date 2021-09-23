@@ -1,0 +1,8 @@
+#forecastData {
+    display: flex;
+    flex-direction: row;
+}
+
+#forecastData div {
+    border: 1px solid red;
+}
